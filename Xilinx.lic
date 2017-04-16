@@ -1,0 +1,281 @@
+# ----- REMOVE LINES ABOVE HERE --------------------------
+#
+# This license is valid from Fri Apr 14 14:18:39 UTC 2017.
+#
+# This is license NODELOCKED to HOSTID=0a02ed79;
+# there is no need to run lmgrd for this license.
+#
+#
+# This is a permanent license generated on Fri Apr 14 14:18:39 UTC 2017
+INCREMENT SDSoC_Tools xilinxd 2018.04 permanent uncounted \
+9BF93BA53B21 \
+VENDOR_STRING=janko.milutinovic,SDSoC_Tools,software,permanent,_211341869_0_0_646 \
+HOSTID=DISK_SERIAL_NUM=a02ed79 ISSUER="Xilinx Inc" \
+START=14-Apr-2017 TS_OK
+#
+# This is a permanent license generated on Fri Apr 14 14:18:39 UTC 2017
+INCREMENT ap_sdsoc xilinxd 2018.04 permanent uncounted CA6761CF9C82 \
+VENDOR_STRING=janko.milutinovic,ap_sdsoc,software,permanent,_211341869_0_0_905 \
+HOSTID=DISK_SERIAL_NUM=a02ed79 ISSUER="Xilinx Inc" \
+START=14-Apr-2017 TS_OK
+#
+# This is a permanent license generated on Fri Apr 14 14:18:39 UTC 2017
+INCREMENT ap_cc xilinxd 2018.04 permanent uncounted 324B4F10CE28 \
+VENDOR_STRING=janko.milutinovic,ap_cc,software,permanent,_211341869_0_0_443 \
+HOSTID=DISK_SERIAL_NUM=a02ed79 ISSUER="Xilinx Inc" \
+START=14-Apr-2017 TS_OK
+#
+# This is a permanent license generated on Fri Apr 14 14:18:39 UTC 2017
+INCREMENT v_cresample xilinxd 2018.04 permanent uncounted \
+F28617352ABA \
+VENDOR_STRING=License_Type:Bought;janko.milutinovic,v_cresample,ip,permanent,_211341869_0_0_448 \
+HOSTID=DISK_SERIAL_NUM=a02ed79 ISSUER="Xilinx Inc" NOTICE="The \
+license for this core was generated for janko.milutinovic on \
+04/15/2017It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." START=14-Apr-2017 \
+TS_OK
+#
+# Licenses for v_cresample
+FEATURE v_cresample xilinxd 1.0 permanent uncounted 0D4F578FBCE4 \
+VENDOR_STRING=License_Type:Bought \
+HOSTID=DISK_SERIAL_NUM=a02ed79 ISSUER=Xilinx NOTICE="The \
+license for this core was generated for janko.milutinovic on \
+04/15/2017It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." TS_OK
+#
+# This is a permanent license generated on Fri Apr 14 14:18:39 UTC 2017
+INCREMENT v_osd xilinxd 2018.04 permanent uncounted 46F3DBB2ACCD \
+VENDOR_STRING=License_Type:Bought;janko.milutinovic,v_osd,ip,permanent,_211341869_0_0_349 \
+HOSTID=DISK_SERIAL_NUM=a02ed79 ISSUER="Xilinx Inc" NOTICE="The \
+license for this core was generated for janko.milutinovic on \
+04/15/2017It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." START=14-Apr-2017 \
+TS_OK
+#
+# Licenses for v_osd
+FEATURE v_osd xilinxd 1.0 permanent uncounted A46594732F50 \
+VENDOR_STRING=License_Type:Bought \
+HOSTID=DISK_SERIAL_NUM=a02ed79 ISSUER=Xilinx NOTICE="The \
+license for this core was generated for janko.milutinovic on \
+04/15/2017It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." TS_OK
+#
+# Licenses for v_osd_v1_0
+FEATURE v_osd_v1_0 xilinxd 1.0 permanent uncounted F43826EFFCC6 \
+VENDOR_STRING=License_Type:Bought \
+HOSTID=DISK_SERIAL_NUM=a02ed79 ISSUER=Xilinx NOTICE="The \
+license for this core was generated for janko.milutinovic on \
+04/15/2017It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." TS_OK
+#
+# This is a permanent license generated on Fri Apr 14 14:18:39 UTC 2017
+INCREMENT v_rgb2ycrcd xilinxd 2018.04 permanent uncounted \
+22A938637D41 \
+VENDOR_STRING=License_Type:Bought;janko.milutinovic,v_rgb2ycrcd,ip,permanent,_211341869_0_0_346 \
+HOSTID=DISK_SERIAL_NUM=a02ed79 ISSUER="Xilinx Inc" NOTICE="The \
+license for this core was generated for janko.milutinovic on \
+04/15/2017It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." START=14-Apr-2017 \
+TS_OK
+#
+# Licenses for v_rgb2ycrcb
+FEATURE v_rgb2ycrcb xilinxd 1.0 permanent uncounted 05730637735F \
+VENDOR_STRING=License_Type:Bought \
+HOSTID=DISK_SERIAL_NUM=a02ed79 ISSUER=Xilinx NOTICE="The \
+license for this core was generated for janko.milutinovic on \
+04/15/2017It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." TS_OK
+#
+# Licenses for v_rgb2ycrcb_v2
+FEATURE v_rgb2ycrcb_v2 xilinxd 1.0 permanent uncounted 07069C17644B \
+VENDOR_STRING=License_Type:Bought \
+HOSTID=DISK_SERIAL_NUM=a02ed79 ISSUER=Xilinx NOTICE="The \
+license for this core was generated for janko.milutinovic on \
+04/15/2017It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." TS_OK
+#
+# This is a permanent license generated on Fri Apr 14 14:18:39 UTC 2017
+INCREMENT v_tc xilinxd 2018.04 permanent uncounted DBBF8BFFFDFE \
+VENDOR_STRING=License_Type:Bought;janko.milutinovic,v_tc,ip,permanent,_211341869_0_0_142 \
+HOSTID=DISK_SERIAL_NUM=a02ed79 ISSUER="Xilinx Inc" NOTICE="The \
+license for this core was generated for janko.milutinovic on \
+04/15/2017It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." START=14-Apr-2017 \
+TS_OK
+#
+# Licenses for v_tc
+FEATURE v_tc xilinxd 1.0 permanent uncounted 0D35990FB73E \
+VENDOR_STRING=License_Type:Bought \
+HOSTID=DISK_SERIAL_NUM=a02ed79 ISSUER=Xilinx NOTICE="The \
+license for this core was generated for janko.milutinovic on \
+04/15/2017It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." TS_OK
+#
+# This is a permanent license generated on Fri Apr 14 14:18:39 UTC 2017
+INCREMENT v_tpg xilinxd 2018.04 permanent uncounted 812BEB2F889E \
+VENDOR_STRING=License_Type:Bought;janko.milutinovic,v_tpg,ip,permanent,_211341869_0_0_446 \
+HOSTID=DISK_SERIAL_NUM=a02ed79 ISSUER="Xilinx Inc" NOTICE="The \
+license for this core was generated for janko.milutinovic on \
+04/15/2017It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." START=14-Apr-2017 \
+TS_OK
+#
+# Licenses for v_tpg
+FEATURE v_tpg xilinxd 1.0 permanent uncounted E9DA57592835 \
+VENDOR_STRING=License_Type:Bought \
+HOSTID=DISK_SERIAL_NUM=a02ed79 ISSUER=Xilinx NOTICE="The \
+license for this core was generated for janko.milutinovic on \
+04/15/2017It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." TS_OK
+#
+# This is a permanent license generated on Fri Apr 14 14:18:39 UTC 2017
+INCREMENT v_ycrcb2rgb_v2 xilinxd 2018.04 permanent uncounted \
+A51F209F1F9C \
+VENDOR_STRING=License_Type:Bought;janko.milutinovic,v_ycrcb2rgb_v2,ip,permanent,_211341869_0_0_005 \
+HOSTID=DISK_SERIAL_NUM=a02ed79 ISSUER="Xilinx Inc" NOTICE="The \
+license for this core was generated for janko.milutinovic on \
+04/15/2017It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." START=14-Apr-2017 \
+TS_OK
+#
+# Licenses for v_ycrcb2rgb_v2
+FEATURE v_ycrcb2rgb_v2 xilinxd 1.0 permanent uncounted F20D5DCB980D \
+VENDOR_STRING=License_Type:Bought \
+HOSTID=DISK_SERIAL_NUM=a02ed79 ISSUER=Xilinx NOTICE="The \
+license for this core was generated for janko.milutinovic on \
+04/15/2017It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." TS_OK
+#
+# This is a permanent license generated on Fri Apr 14 14:18:39 UTC 2017
+INCREMENT v_ycrcb2rgb xilinxd 2018.04 permanent uncounted \
+82E914A8E941 \
+VENDOR_STRING=License_Type:Bought;janko.milutinovic,v_ycrcb2rgb,ip,permanent,_211341869_0_0_646 \
+HOSTID=DISK_SERIAL_NUM=a02ed79 ISSUER="Xilinx Inc" NOTICE="The \
+license for this core was generated for janko.milutinovic on \
+04/15/2017It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." START=14-Apr-2017 \
+TS_OK
+#
+# Licenses for v_ycrcb2rgb
+FEATURE v_ycrcb2rgb xilinxd 1.0 permanent uncounted 3111A1212FFD \
+VENDOR_STRING=License_Type:Bought \
+HOSTID=DISK_SERIAL_NUM=a02ed79 ISSUER=Xilinx NOTICE="The \
+license for this core was generated for janko.milutinovic on \
+04/15/2017It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." TS_OK
+#
+# This is a permanent license generated on Fri Apr 14 14:18:39 UTC 2017
+INCREMENT v_rgb2ycrcb_v2 xilinxd 2018.04 permanent uncounted \
+C4ED513D56E8 \
+VENDOR_STRING=License_Type:Bought;janko.milutinovic,v_rgb2ycrcb_v2,ip,permanent,_211341869_0_0_942 \
+HOSTID=DISK_SERIAL_NUM=a02ed79 ISSUER="Xilinx Inc" NOTICE="The \
+license for this core was generated for janko.milutinovic on \
+04/15/2017It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." START=14-Apr-2017 \
+TS_OK
+#
+# This is a permanent license generated on Fri Apr 14 14:18:39 UTC 2017
+INCREMENT XCZU9EG-ES1_bitgen xilinxd 2018.04 permanent uncounted \
+76EE3C6C3522 \
+VENDOR_STRING=janko.milutinovic,XCZU9EG-ES1_bitgen,software,permanent,_211341869_0_0_624 \
+HOSTID=DISK_SERIAL_NUM=a02ed79 ISSUER="Xilinx Inc" \
+START=14-Apr-2017 TS_OK
+#
+# This is a permanent license generated on Fri Apr 14 14:18:39 UTC 2017
+INCREMENT xczu9eg-es1 xilinxd 2018.04 permanent uncounted \
+390CE7F01143 \
+VENDOR_STRING=janko.milutinovic,xczu9eg-es1,software,permanent,_211341869_0_0_342 \
+HOSTID=DISK_SERIAL_NUM=a02ed79 ISSUER="Xilinx Inc" \
+START=14-Apr-2017 TS_OK
+#
+# This is a permanent license generated on Fri Apr 14 14:18:39 UTC 2017
+INCREMENT ap_opencl_soc xilinxd 2018.04 permanent uncounted \
+47BC7C61409E \
+VENDOR_STRING=janko.milutinovic,ap_opencl_soc,software,permanent,_211341869_0_0_204 \
+HOSTID=DISK_SERIAL_NUM=a02ed79 ISSUER="Xilinx Inc" \
+START=14-Apr-2017 TS_OK
+#
+# This is a permanent license generated on Fri Apr 14 14:18:39 UTC 2017
+INCREMENT XCZU9EG-ES2_bitgen xilinxd 2018.04 permanent uncounted \
+0536DF99BA84 \
+VENDOR_STRING=janko.milutinovic,XCZU9EG-ES2_bitgen,software,permanent,_211341869_0_0_060 \
+HOSTID=DISK_SERIAL_NUM=a02ed79 ISSUER="Xilinx Inc" \
+START=14-Apr-2017 TS_OK
+#
+# This is a permanent license generated on Fri Apr 14 14:18:39 UTC 2017
+INCREMENT XCZU3EG-ES1_bitgen xilinxd 2018.04 permanent uncounted \
+595BC8E4B176 \
+VENDOR_STRING=janko.milutinovic,XCZU3EG-ES1_bitgen,software,permanent,_211341869_0_0_600 \
+HOSTID=DISK_SERIAL_NUM=a02ed79 ISSUER="Xilinx Inc" \
+START=14-Apr-2017 TS_OK
+#
+# This is a permanent license generated on Fri Apr 14 14:18:39 UTC 2017
+INCREMENT xczu3eg-es1 xilinxd 2018.04 permanent uncounted \
+B36D3E84F479 \
+VENDOR_STRING=janko.milutinovic,xczu3eg-es1,software,permanent,_211341869_0_0_601 \
+HOSTID=DISK_SERIAL_NUM=a02ed79 ISSUER="Xilinx Inc" \
+START=14-Apr-2017 TS_OK
+#
+# This is a permanent license generated on Fri Apr 14 14:18:39 UTC 2017
+INCREMENT XCZU15EG-ES1_bitgen xilinxd 2018.04 permanent uncounted \
+50A44CEED785 \
+VENDOR_STRING=janko.milutinovic,XCZU15EG-ES1_bitgen,software,permanent,_211341869_0_0_162 \
+HOSTID=DISK_SERIAL_NUM=a02ed79 ISSUER="Xilinx Inc" \
+START=14-Apr-2017 TS_OK
+#
+# This is a permanent license generated on Fri Apr 14 14:18:39 UTC 2017
+INCREMENT XCZU15EG-ES1 xilinxd 2018.04 permanent uncounted \
+565833C9895F \
+VENDOR_STRING=janko.milutinovic,XCZU15EG-ES1,software,permanent,_211341869_0_0_527 \
+HOSTID=DISK_SERIAL_NUM=a02ed79 ISSUER="Xilinx Inc" \
+START=14-Apr-2017 TS_OK
+#
+# This is a permanent license generated on Fri Apr 14 14:18:39 UTC 2017
+INCREMENT XCZU19EG-ES2_bitgen xilinxd 2018.04 permanent uncounted \
+58C4E1B8E383 \
+VENDOR_STRING=janko.milutinovic,XCZU19EG-ES2_bitgen,software,permanent,_211341869_0_0_029 \
+HOSTID=DISK_SERIAL_NUM=a02ed79 ISSUER="Xilinx Inc" \
+START=14-Apr-2017 TS_OK
+#
+# This is a permanent license generated on Fri Apr 14 14:18:39 UTC 2017
+INCREMENT XCZU19EG-ES2 xilinxd 2018.04 permanent uncounted \
+1F36B04AA920 \
+VENDOR_STRING=janko.milutinovic,XCZU19EG-ES2,software,permanent,_211341869_0_0_742 \
+HOSTID=DISK_SERIAL_NUM=a02ed79 ISSUER="Xilinx Inc" \
+START=14-Apr-2017 TS_OK
+#
+# This is a permanent license generated on Fri Apr 14 14:18:39 UTC 2017
+INCREMENT XCZU9EG-ES2 xilinxd 2018.04 permanent uncounted \
+2E48B8C1D4F0 \
+VENDOR_STRING=janko.milutinovic,XCZU9EG-ES2,software,permanent,_211341869_0_0_368 \
+HOSTID=DISK_SERIAL_NUM=a02ed79 ISSUER="Xilinx Inc" \
+START=14-Apr-2017 TS_OK
+#
+#
+# ----------------------------------------------------------------------
+#  The following PACKAGE definition is a REQUIRED part of this license:
+#
+PACKAGE SDSoC_Tools xilinxd 2018.04 F21C586B7E9C COMPONENTS="SDK \
+XC7Z010 XC7Z030 XC7Z045 Simulation Analyzer XC7Z020 ap_cc \
+XC7Z100 ap_sdsoc xc7z015 xc7z035" OPTIONS=SUITE
+#
+# ------------------------------------------------------------------------------
+#
+# ----- REMOVE LINES BELOW HERE --------------------------
